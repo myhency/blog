@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 2019-09-22 Daily Journal
-tags: [frontpage, jekyll, blog]
-image: ''
 ---
 
 ### 한 일
